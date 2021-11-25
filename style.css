@@ -1,0 +1,21 @@
+.container{
+    margin-top: 10%;
+}
+.customAlign{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.writeName{
+    color: #0066ff;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.clockNow{
+    color: #ffbb00;
+    font-size: 16px;
+    font-weight: 600;
+}
